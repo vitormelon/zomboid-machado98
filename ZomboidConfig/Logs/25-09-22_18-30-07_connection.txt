@@ -1,0 +1,29 @@
+[25-09-22 18:30:07.062] Receive Login: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/0/0].
+[25-09-22 18:30:07.078] Receive Login: connection guid="189151869896195714" username="null" access="1" ip="null" steamID="0" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[25-09-22 18:30:07.078] Receive Login: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:30:07.111] Receive Login: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 18:30:07.183] Receive Client Connect: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/0/0].
+[25-09-22 18:30:07.184] Receive Client Connect: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="0" preferred="false" wait="false" queued="false" full="false" mtu="1200".
+[25-09-22 18:30:07.184] Receive Client Connect: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:30:07.184] Receive Client Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 18:35:15.969] Receive server queue request: login-queue=[0/0/"189151869896195714"] connections=[1/1/1/1] players=[0/0/1/1].
+[25-09-22 18:35:15.969] Receive server queue request: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[25-09-22 18:35:15.969] Receive server queue request: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:35:15.972] Receive server queue request: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 18:35:55.639] Receive queue done: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/1/1].
+[25-09-22 18:35:55.639] Receive queue done: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[25-09-22 18:35:55.639] Receive queue done: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:35:55.639] Receive queue done: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 18:36:17.224] Receive Player Connect: login-queue=[0/0/""] connections=[1/1/1/1] players=[0/0/1/1].
+[25-09-22 18:36:17.224] Receive Player Connect: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="0" preferred="false" wait="false" queued="true" full="false" mtu="1200".
+[25-09-22 18:36:17.224] Receive Player Connect: players 0=[0] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:36:17.224] Receive Player Connect: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 18:36:17.398] Player Fully Connected: login-queue=[0/0/""] connections=[1/1/1/1] players=[1/1/1/1].
+[25-09-22 18:36:17.398] Player Fully Connected: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="1" preferred="false" wait="false" queued="true" full="true" mtu="1200".
+[25-09-22 18:36:17.398] Player Fully Connected: players 0=[0 0 bangurion] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 18:36:17.399] Player Fully Connected: session active="true" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="138.186.111.47" port="20289".
+[25-09-22 19:12:42.411] Receive Disconnect [21]: login-queue=[0/0/""] connections=[1/0/0/0] players=[1/1/1/1].
+[25-09-22 19:12:42.478] Disconnect [receive-disconnect]: login-queue=[0/0/""] connections=[0/0/0/0] players=[0/0/0/0].
+[25-09-22 19:12:42.478] Disconnect [receive-disconnect]: connection guid="189151869896195714" username="bangurion" access="32" ip="249.234.150.143" steamID="76561198047158853" players="0" preferred="false" wait="false" queued="true" full="true" mtu="576".
+[25-09-22 19:12:42.478] Disconnect [receive-disconnect]: players 0=[-1] 1=[-1] 2=[-1] 3=[-1].
+[25-09-22 19:12:42.478] Disconnect [receive-disconnect]: session active="false" connecting="false" relay="false" error="0" bytes="0" packets="0" ip="0.0.0.0" port="0".

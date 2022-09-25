@@ -1,0 +1,31 @@
+[25-09-22 18:39:30.367] 76561198047158853 "bangurion" container -1 6057,5345,0 [Base.WaterBottleFull].
+[25-09-22 18:39:33.351] 76561198047158853 "bangurion" container -2 6057,5345,0 [farming.Strewberrie, Base.Cheese].
+[25-09-22 18:39:45.337] 76561198047158853 "bangurion" container -1 6059,5345,0 [Base.KitchenKnife].
+[25-09-22 18:39:48.351] 76561198047158853 "bangurion" container -3 6059,5347,0 [Base.BakingPan, Base.Spatula, Base.OvenMitt].
+[25-09-22 18:39:51.345] 76561198047158853 "bangurion" container -3 6059,5347,0 [Base.Saucepan, Base.MuffinTray, Base.Kettle].
+[25-09-22 18:39:54.351] 76561198047158853 "bangurion" container -2 6059,5345,0 [Base.GlassTumbler, Base.Fork].
+[25-09-22 18:39:54.351] 76561198047158853 "bangurion" container -5 6058,5345,0 [Base.CarKey, Base.CannedMushroomSoup, Base.CannedMilk, Base.DishCloth, Base.CannedTomato2].
+[25-09-22 18:40:24.263] 76561198047158853 "bangurion" floor +1 6071,5353,0 [Base.Glasses_Reading].
+[25-09-22 18:40:48.351] 76561198047158853 "bangurion" container -1 6061,5349,0 [Base.Screwdriver].
+[25-09-22 18:41:09.474] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.Kettle].
+[25-09-22 18:41:12.286] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.Spatula].
+[25-09-22 18:41:14.411] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.BakingPan].
+[25-09-22 18:41:14.436] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.MuffinTray].
+[25-09-22 18:41:16.584] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.Fork].
+[25-09-22 18:41:16.617] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.OvenMitt].
+[25-09-22 18:41:16.657] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.Saucepan].
+[25-09-22 18:41:24.726] 76561198047158853 "bangurion" floor +1 6061,5351,0 [Base.GlassTumbler].
+[25-09-22 18:43:04.871] 76561198047158853 "bangurion" floor +1 6031,5330,0 [Base.Hat_BaseballCapKY].
+[25-09-22 18:46:20.940] 76561198047158853 "bangurion" floor +1 5995,5377,0 [Base.Hat_Beret].
+[25-09-22 18:46:36.346] 76561198047158853 "bangurion" container -1 5993,5369,0 [Base.HandFork].
+[25-09-22 18:48:55.056] 76561198047158853 "bangurion" floor +1 6205,5248,0 [Base.Glasses_Reading].
+[25-09-22 19:05:08.445] 76561198047158853 "bangurion" floor +1 12064,2315,0 [Base.Glasses_Reading].
+[25-09-22 19:05:42.371] 76561198047158853 "bangurion" container -1 12038,2314,0 [SWeapons.SharpenedScrewdriver].
+[25-09-22 19:05:49.424] 76561198047158853 "bangurion" floor +1 12057,2314,0 [Base.Glasses_Reading].
+[25-09-22 19:07:03.398] 76561198047158853 "bangurion" container -1 12023,2318,1 [Base.Bag_BigHikingBag].
+[25-09-22 19:07:07.249] 76561198047158853 "bangurion" floor +1 12024,2317,1 [Base.Bag_Schoolbag].
+[25-09-22 19:07:15.375] 76561198047158853 "bangurion" container -33 12024,2317,1 [ExtCampfire.DryGrass, SWeapons.SharpenedScrewdriver, Base.Comfrey, Base.Stone, Base.Cockroach, Base.WaterBottleFull, Base.HandFork, Base.CannedMilk, Base.Cheese, Base.Crisps, Base.CannedMushroomSoup, Base.LemonGrass, farming.Strewberrie, Base.Cricket].
+[25-09-22 19:07:18.383] 76561198047158853 "bangurion" container -2 12024,2317,1 [Base.Hammer, Base.CannedTomato2].
+[25-09-22 19:07:36.382] 76561198047158853 "bangurion" container -1 12023,2327,1 [Base.AlarmClock2].
+[25-09-22 19:12:12.381] 76561198047158853 "bangurion" container -1 12014,2257,0 [Base.Wine].
+[25-09-22 19:12:23.122] 76561198047158853 "bangurion" floor -1 12017,2259,0 [Base.CardDeck].

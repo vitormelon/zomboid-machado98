@@ -1,0 +1,8 @@
+[25-09-22 18:30:06.714] added connection index=0 76561198047158853.
+[25-09-22 18:30:07.124] 76561198047158853 "bangurion" attempting to join.
+[25-09-22 18:30:07.127] 76561198047158853 "bangurion" allowed to join.
+[25-09-22 18:35:15.966] 76561198047158853 "bangurion" attempting to join used queue.
+[25-09-22 18:35:55.639] player bangurion loading time was: 37785 ms.
+[25-09-22 18:36:17.409] 76561198047158853 "bangurion" fully connected (6057,5349,0).
+[25-09-22 19:12:42.416] 76561198047158853 "bangurion" removed connection index=0.
+[25-09-22 19:12:42.478] 76561198047158853 "bangurion" disconnected player (12016,2258,0).

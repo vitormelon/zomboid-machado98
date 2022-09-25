@@ -1,0 +1,5 @@
+[25-09-22 18:40:13.827] bangurion disabled invisibility on bangurion.
+[25-09-22 18:40:14.197] bangurion disabled godmode on bangurion.
+[25-09-22 18:46:10.873][IMPORTANT] bangurion created a horde of 1 zombies near 5998,5372.
+[25-09-22 18:51:08.897] bangurion enabled invisibility on bangurion.
+[25-09-22 18:51:09.285] bangurion enabled godmode on bangurion.
