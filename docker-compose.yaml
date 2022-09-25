@@ -25,8 +25,8 @@ services:
       - "QUERY_PORT=16261"
       - "RCON_PASSWORD=changeme_rcon"
       - "RCON_PORT=27015"
-      - "SERVER_NAME=Machado99"
-      - "SERVER_PASSWORD="
+      - "SERVER_NAME=machado99"
+      - "SERVER_PASSWORD=kleber"
       - "STEAM_VAC=true"
       - "USE_STEAM=true"
     ports:
