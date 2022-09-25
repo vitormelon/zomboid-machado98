@@ -17,7 +17,7 @@ services:
       - "GAME_VERSION=public"
       - "MAP_NAMES=Muldraugh, KY"
       - "MAX_PLAYERS=10"
-      - "MAX_RAM=4096m"
+      - "MAX_RAM=6144m"
       - "MOD_NAMES="
       - "MOD_WORKSHOP_IDS="
       - "PAUSE_ON_EMPTY=true"
