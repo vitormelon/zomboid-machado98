@@ -9,8 +9,8 @@ services:
     container_name: zomboid-dedicated-server
     restart: "no"
     environment:
-      - "ADMIN_PASSWORD=changeme"
-      - "ADMIN_USERNAME=superuser"
+      - "ADMIN_PASSWORD=919712"
+      - "ADMIN_USERNAME=bangurion"
       - "AUTOSAVE_INTERVAL=15"
       - "BIND_IP=0.0.0.0"
       - "GAME_PORT=8766"
@@ -25,7 +25,7 @@ services:
       - "QUERY_PORT=16261"
       - "RCON_PASSWORD=changeme_rcon"
       - "RCON_PORT=27015"
-      - "SERVER_NAME=ZomboidServer"
+      - "SERVER_NAME=Machado99"
       - "SERVER_PASSWORD="
       - "STEAM_VAC=true"
       - "USE_STEAM=true"
